@@ -25,3 +25,6 @@ https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655
 
 https://netbeans.org/kb/docs/java/gui-functionality.html
 https://examples.javacodegeeks.com/desktop-java/swing/java-swing-form-example/#
+
+http://www.guillesql.es/Articulos/Trazas_SQL_Server_Crear_Manipular_Consultar_Codigo_TSQL.aspx
+http://blogs.solidq.com/es/sql-server/creacion-de-trazas-de-sql-profiler-desde-transact-sql-tsql-para-sql-server-2000-y-sql-server-2005-de-una-forma-sencilla/

@@ -53,8 +53,7 @@ https://bootstrap.build/app
 Excel Reports
 https://github.com/ClosedXML/ClosedXML.Report
 
-
-JavaScript Sources
+JavaScript Resources
 https://www.jsdelivr.com/
 
 Angular Material - Custom Color
@@ -62,3 +61,14 @@ https://material.io/tools/color/#!/?view.left=0&view.right=1&primary.color=3521e
 https://material.io/design/color/applying-color-to-ui.html#backdrop
 https://material.io/design/color/#tools-for-picking-colors
 https://material.angularjs.org/latest/Theming/03_configuring_a_theme
+
+Team Viewer
+https://chrome.google.com/webstore/detail/oooiobdokpcfdlahlmcddobejikcmkfo
+
+Proxy
+http://lacwebproxy.wlb2.nam.nsroot.net:8080/
+
+npm config set proxy http://"lac\\RD09069:N@ty2012"@lacwebproxy.wlb2.nam.nsroot.net:8080
+npm config set https-proxy http://"lac\\RD09069:N@ty2012"@lacwebproxy.wlb2.nam.nsroot.net:8080
+
+git config --global http.proxy http://lacwebproxy.wlb2.nam.nsroot.net:8080/

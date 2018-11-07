@@ -26,5 +26,37 @@ https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655
 https://netbeans.org/kb/docs/java/gui-functionality.html
 https://examples.javacodegeeks.com/desktop-java/swing/java-swing-form-example/#
 
+SQL Trace
 http://www.guillesql.es/Articulos/Trazas_SQL_Server_Crear_Manipular_Consultar_Codigo_TSQL.aspx
 http://blogs.solidq.com/es/sql-server/creacion-de-trazas-de-sql-profiler-desde-transact-sql-tsql-para-sql-server-2000-y-sql-server-2005-de-una-forma-sencilla/
+
+C# HTML to PDF
+https://ironpdf.com/tutorials/html-to-pdf/
+
+Net Core HTML to PDF
+https://stackoverflow.com/questions/39364687/export-html-to-pdf-in-asp-net-core
+https://stackoverflow.com/questions/36983300/export-to-pdf-using-asp-net-5
+https://jsreport.net/learn/dotnet
+https://github.com/jsreport/jsreport-core
+https://jsreport.net/learn/dotnet-aspnetcore
+https://jsreport.net/learn/dotnet-mvc
+
+dotnet add package jsreport.AspNetCore
+dotnet add package jsreport.Shared
+dotnet add package jsreport.MVC
+dotnet add package jsreport.Types
+
+CSS Tricks
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://bootstrap.build/app
+
+Excel Reports
+https://github.com/ClosedXML/ClosedXML.Report
+
+
+JavaScript Sources
+https://www.jsdelivr.com/
+
+Angular Material - Custom Color
+https://material.io/tools/color/#!/?view.left=0&view.right=1&primary.color=3521e2&secondary.color=b1ea87
+https://material.io/design/color/applying-color-to-ui.html#backdrop

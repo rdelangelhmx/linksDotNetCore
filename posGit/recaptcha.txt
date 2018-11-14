@@ -1,0 +1,24 @@
+Clave del sitio
+6LcjpnoUAAAAAHSyCPKnXejkX7QA4BkKo-pMH_-d
+
+Clave secreta
+6LcjpnoUAAAAABo87YEO3jfrJ2iOuf5c17TEhf74
+
+<script src='https://www.google.com/recaptcha/api.js?render=6LcjpnoUAAAAAHSyCPKnXejkX7QA4BkKo-pMH_-d'></script>
+
+<script>
+grecaptcha.ready(function() {
+grecaptcha.execute('6LcjpnoUAAAAAHSyCPKnXejkX7QA4BkKo-pMH_-d', {action: 'action_name'})
+.then(function(token) {
+// Verify the token on the server.
+});
+});
+</script>
+
+
+URL: https://www.google.com/recaptcha/api/siteverify
+secret (obligatorio)	6LcjpnoUAAAAABo87YEO3jfrJ2iOuf5c17TEhf74
+response (obligatorio)	El valor de "g-recaptcha-response".
+remoteip	La dirección IP del usuario final.
+
+
